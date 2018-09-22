@@ -1,0 +1,4 @@
+La base de datos es appserv 8.6
+
+usuario: root
+contraseña: 12345678
